@@ -1,6 +1,6 @@
 # divide_conta
 
-A new Flutter project.
+App para divisão de conta com gorjeta e valor por pessoa em flutter/dart.
 
 ## Getting Started
 
